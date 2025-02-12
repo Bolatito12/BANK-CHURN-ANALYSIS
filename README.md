@@ -68,7 +68,7 @@ The bank could focus on engagement strategies for low-balance customers.
 
 - Improve engagement for multi-product customers: Ensure those with multiple products receive the right support and value.
 
-- Increase retention efforts for male customers: Analyze why male customers churn more and adjust services accordingly.
+- Increase retention efforts for Female customers: Analyze why Female customers churn more and adjust services accordingly.
 
 - Encourage balance maintenance: Offer incentives for customers to keep funds in their accounts to boost engagement.
 
