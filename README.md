@@ -1,16 +1,19 @@
-# BANK-CHURN-ANALYSIS
-This project aims to analyze customer churn for a European bank with 10,000 customers and identify key factors driving attrition. The goal is to provide insights that improve retention strategies and optimize decision-making.
+# TELECOM-CUSTOMER-CHURN-ANALYSIS
+This project is designed to transition the company's retention strategy from reactive recovery to proactive, data-driven defense. The primary aim is to minimize attrition and maximize Customer Lifetime Value (CLV) by focusing on the highest-risk, highest-value segments.
 
 ## Project Objectives:
-•	Measure churn rate and assess retention performance.
+• Financial Objective: Reduce the 16% Churn Rate to protect the $61.78K in Annual Revenue at Risk.
 
-•	Identify key churn factors like credit score, balance, and product ownership.
+• Predictive Objective: Build a machine learning model to assign a Churn Risk Score and achieve 80% accuracy in identifying at-risk customers.
 
-•	Segment customers to understand churn patterns.
+• Operational Objective: Prioritize fixing the 20+ Call Failure service threshold, the operational trigger causing significant churn spikes.
 
-•	Predict potential churn and develop targeted retention strategies.
+• Targeted Objective: Increase the retention rate of the financially-critical 'High Value - Low Engagement' segment.
 
-•	Provide data-driven insights to enhance customer loyalty and business growth.
+• Commitment Objective: Implement early-life campaigns to secure contract commitment from the high-volume 'New - High Risk' segment.
+
+• Behavioral Objective: Increase customer service usage (e.g., Frequency of Use) by 15% for high-risk customers to boost loyalty
+
 
 ## Data Used:
 
